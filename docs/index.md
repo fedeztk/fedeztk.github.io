@@ -1,17 +1,24 @@
-# Welcome to MkDocs
+# About
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Currently studying computer science at Unito.
 
-## Commands
+FOSS passionate, linux enthusiast.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## University projects
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Made with ♥ together with [noc3](https://github.com/NOC3).
+
+> Some projects may not be available at the moment due to temporary code cleanup, please be patient or contact me via mail.
+
+- [Programmazione 3](https://github.com/NOC3/ProgIII)
+- [Tecnologie Web](https://github.com/fedeztk/Tweb)
+- [Data base](https://github.com/DataBase/Tweb)
+- [Sistemi operativi](https://github.com/NOC3/Progetto-Sistemi-Operativi-2019-2020)
+- [Algoritmi e strutture dati](https://github.com/NOC3/Progetthttps://github.com/fedeztk/LFTo-Algoritmi-e-Strutture-Dati-2019-2020)
+- [LFT](https://github.com/fedeztk/LFT)
+
+### Contacts:
+
+- mail: fedeztk@tutanota.com
+- [github](https://github.com/fedeztk)

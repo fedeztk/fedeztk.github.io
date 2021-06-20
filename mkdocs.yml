@@ -1,4 +1,22 @@
-site_name: My Docs
-site_url: https://example.com/
+site_name: Federico Serra
+# site_url: https://example.com/
 theme:
   name: material
+  favicon: assets/logo.png
+  icon:
+    logo: material/alpha-f-circle
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: green
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: green
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
