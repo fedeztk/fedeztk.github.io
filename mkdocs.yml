@@ -1,5 +1,4 @@
 site_name: Federico Serra
-# site_url: https://example.com/
 theme:
   name: material
   favicon: assets/logo.png
