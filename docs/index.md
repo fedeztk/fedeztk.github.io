@@ -1,24 +1,45 @@
 # About
 
+<!-- ![](assets/portrait.JPG) -->
+
 Currently studying computer science at Unito.
 
-FOSS passionate, linux enthusiast.
+Linux and FOSS enthusiast
 
+---
 
-## University projects
+## Skill
 
-Made with ♥ together with [noc3](https://github.com/NOC3).
+- Great propensity to team work
+- Good communication skills
+- Ability to teach
+- Capacity to learn fast
 
-> Some projects may not be available at the moment due to temporary code cleanup, please be patient or contact me via mail.
+### Computer skills 
 
-- [Programmazione 3](https://github.com/NOC3/ProgIII)
-- [Tecnologie Web](https://github.com/fedeztk/Tweb)
-- [Data base](https://github.com/DataBase/Tweb)
-- [Sistemi operativi](https://github.com/NOC3/Progetto-Sistemi-Operativi-2019-2020)
-- [Algoritmi e strutture dati](https://github.com/NOC3/Progetthttps://github.com/fedeztk/LFTo-Algoritmi-e-Strutture-Dati-2019-2020)
-- [LFT](https://github.com/fedeztk/LFT)
+- C, Java, Bash, PHP, Haskell, Python, SQL, Systemtap
+- Frontend: JS-JQuery, HTML, CSS
+- Database: SQL
+- Markup: LaTeX, org-mode, markdown
 
-### Contacts:
+---
 
-- mail: fedeztk@tutanota.com
+## Education
+
+- 2018-present: Bachelor's Degree in Computer Science (**Unito**, Turin)
+- 2013-2018: High School Linguistic Diploma (**Liceo Albert**, Lanzo)
+
+---
+
+## Internships
+
+- 2019-2020: Assistant Professor "Programmazione I" course (Unito, Turin)
+
+---
+
+## Contacts
+
+- [mail](mailto:fedeztk@tutanota.com)
 - [github](https://github.com/fedeztk)
+
+
