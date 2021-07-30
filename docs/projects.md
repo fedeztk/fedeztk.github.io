@@ -2,7 +2,7 @@
 
 - [this site](https://github.com/fedeztk/fedeztk.github.io)
 <!-- - [dotfiles](https://github.com/fedeztk/.dotfiles) -->
-- more to come...
+- more will be available soon...
 
 ---
 
