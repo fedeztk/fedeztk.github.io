@@ -19,3 +19,34 @@ theme:
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
+  # features:
+  # - navigation.instant
+  # - navigation.tabs
+
+nav:
+  - Home: index.md
+  - Thesis: thesis.md
+  - Projects: 
+    - Projects index: projects.md
+
+plugins:
+  - include-markdown
+
+markdown_extensions:
+  - fenced_code
+  - attr_list
+  - footnotes
+  - toc:
+          permalink: true
+  - pymdownx.keys
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/fedeztk
