@@ -29,8 +29,8 @@ nav:
   - Projects: 
     - Projects index: projects.md
 
-plugins:
-  - include-markdown
+# plugins:
+#   - include-markdown
 
 markdown_extensions:
   - fenced_code
