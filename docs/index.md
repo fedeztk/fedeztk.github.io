@@ -2,7 +2,7 @@
 
 <!-- ![](assets/portrait.JPG) -->
 
-Currently studying computer science at Unito.
+<!-- Currently studying computer science at Unito. -->
 
 Linux and FOSS enthusiast
 
@@ -17,23 +17,24 @@ Linux and FOSS enthusiast
 
 ### Computer skills 
 
-- C, Java, Bash, PHP, Haskell, Python, SQL, Systemtap
+- C, Java, Bash, Golang, PHP, Haskell, Python, SQL, Systemtap
 - Frontend: JS-JQuery, HTML, CSS
-- Database: SQL
 - Markup: LaTeX, org-mode, markdown
+- Git, Docker
 
 ---
 
 ## Education
 
-- 2018-present: Bachelor's Degree in Computer Science (**Unito**, Turin)
+- 2022: Post-graduate degree in Cloud Computing for Artificial Intelligence (Turin)
+- 2018-2021: Bachelor's Degree in Computer Science (**Unito**, Turin)
 - 2013-2018: High School Linguistic Diploma (**Liceo Albert**, Lanzo)
 
 ---
 
 ## Internships
 
-- 2019-2020: Assistant Professor "Programmazione I" course (Unito, Turin)
+- 2019-2021: Assistant Professor "Programmazione I" course (Unito, Turin)
 
 ---
 
@@ -41,5 +42,3 @@ Linux and FOSS enthusiast
 
 - [mail](mailto:fedeztk@tutanota.com)
 - [github](https://github.com/fedeztk)
-
-

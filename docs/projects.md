@@ -1,7 +1,7 @@
 # Personal projects
 
 - [this site](https://github.com/fedeztk/fedeztk.github.io)
-<!-- - [dotfiles](https://github.com/fedeztk/.dotfiles) -->
+- [got](https://github.com/fedeztk/got), a TUI for google-translate
 - more will be available soon...
 
 ---
