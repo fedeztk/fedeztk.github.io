@@ -28,6 +28,8 @@ nav:
   - Thesis: thesis.md
   - Projects: 
     - Projects index: projects.md
+  - Notes: 
+    - Security+: CompTIA_Security+.md 
 
 # plugins:
 #   - include-markdown

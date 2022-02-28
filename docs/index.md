@@ -1,9 +1,9 @@
 # About
 
-<!-- ![](assets/portrait.JPG) -->
 
 <!-- Currently studying computer science at Unito. -->
 
+<!-- <img src="assets/portrait.jpg" width="150px"> -->
 Linux and FOSS enthusiast
 
 ---
