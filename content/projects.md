@@ -12,9 +12,11 @@ draft: false
 ## Personal projects
 
 - [this site](https://github.com/fedeztk/fedeztk.github.io), powered by [hugo](http://gohugo.io),
-    made by [Djordje Atlialp](https://github.com/rhazdon)
+    theme made by [Djordje Atlialp](https://github.com/rhazdon)
 - [got](https://github.com/fedeztk/got), a TUI for various translation engines
 - [sku](https://github.com/fedeztk/sku), a TUI for playing sudoku from the terminal
+- [aws-sagemaker-sentiment-analysis](https://github.com/fedeztk/aws-sagemaker-sentiment-analysis), a sentiment analysis model API endpoint deployed on AWS Sagemaker, using Terraform for infrastructure as code
+- [glocate](https://github.com/fedeztk/glocate), a CLI for searching files and directories in the filesystem like `locate`/`updatedb`, with regex and smartcase support
 - more will be available soon...
 
 ---
