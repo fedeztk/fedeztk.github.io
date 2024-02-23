@@ -8,8 +8,9 @@ draft: false
 
 - The [thesis](/thesis) is a study about power consumption and frequency scaling in Intel's processors.
 
+---
 
-## Personal projects
+## Personal
 
 - [this site](https://github.com/fedeztk/fedeztk.github.io), powered by [hugo](http://gohugo.io),
     theme made by [Djordje Atlialp](https://github.com/rhazdon)
@@ -21,7 +22,13 @@ draft: false
 
 ---
 
-## University projects
+## First Level Master/Postgraduate specialization
+
+- [Tripapp](https://github.com/fedeztk/tripapp), a fullstack project using NextJS/React, Spring/Java, MongoDB, PostgreSQL, Zuul, RabbitMQ. Deployed with Docker on Kubernetes using GitHub Actions for CI/CD.
+
+---
+
+## Bachelor
 
 > Some projects may not be available at the moment due to temporary code cleanup, please be patient or contact me via mail.
 
