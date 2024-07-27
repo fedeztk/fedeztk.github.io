@@ -18,6 +18,7 @@ draft: false
 - [sku](https://github.com/fedeztk/sku), a TUI for playing sudoku from the terminal
 - [aws-sagemaker-sentiment-analysis](https://github.com/fedeztk/aws-sagemaker-sentiment-analysis), a sentiment analysis model API endpoint deployed on AWS Sagemaker, using Terraform for infrastructure as code
 - [glocate](https://github.com/fedeztk/glocate), a CLI for searching files and directories in the filesystem like `locate`/`updatedb`, with regex and smartcase support
+- [kubectl-cautious](https://github.com/fedeztk/kubectl-cautious), my first kubectl plugin, a wrapper for `kubectl` that checks for changes before applying them inside particular contexts, thought for production environments
 - more will be available soon...
 
 ---

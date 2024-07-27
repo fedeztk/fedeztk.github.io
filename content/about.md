@@ -6,7 +6,7 @@ draft: false
 
 I'm Federico. A guy from Turin, Italy. 
 
-Linux and FOSS enthusiast, aspiring DevOps
+Linux and FOSS enthusiast, working as DevOps Engineer.
 
 ---
 
