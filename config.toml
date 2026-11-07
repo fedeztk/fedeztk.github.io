@@ -1,12 +1,8 @@
-baseurl      = "https://fedeztk.github.io"
+baseURL      = "https://fedeztk.github.io"
 title        = "Federico Serra"
-languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
 publishDir = "docs"
-
-[author]
-    name = "Federico Serra"
 
 [params]
   dateform        = "2 Jan 2006"
@@ -70,6 +66,9 @@ publishDir = "docs"
     logoHomeLink = "/"
     logoCursorColor    = "#1C71D8"
 
+  [params.author]
+    name = "Federico Serra"
+
 
 [taxonomies]
     category = "blog"
@@ -79,6 +78,7 @@ publishDir = "docs"
 [languages]
   [languages.en]
     title = "Federico Serra"
+    locale = "en-us"
     subtitle = ""
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
